@@ -7,8 +7,8 @@
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /offline-plugin-app-shell-fallback/
-  Link: </webpack-runtime-95e148cd86889e0673a3.js>; rel=preload; as=script
+  Link: </webpack-runtime-6797ae52ffcd410c6d4a.js>; rel=preload; as=script
   Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-9cd6c65375ece0a2bcdd.js>; rel=preload; as=script
 /
-  Link: </webpack-runtime-95e148cd86889e0673a3.js>; rel=preload; as=script
-  Link: </4.84db67df377ce312a678.css>; rel=preload; as=script
+  Link: </webpack-runtime-6797ae52ffcd410c6d4a.js>; rel=preload; as=script
+  Link: </4.d53601bd6629ff92a0bb.css>; rel=preload; as=script
